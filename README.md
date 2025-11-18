@@ -1,7 +1,7 @@
 
 # Project Based Experiments
-### NAME: AARON I
-### REGISTER NUMBER: 212223230002
+### NAME: Arikatla Hari Veera Prasad
+### REGISTER NUMBER: 212223240014
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
